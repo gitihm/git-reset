@@ -1,3 +1,3 @@
 # git-reset
 
-a
+b
